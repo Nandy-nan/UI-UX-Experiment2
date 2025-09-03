@@ -30,7 +30,8 @@ Review the final design for alignment, spacing, contrast, and flow. Export layou
 
 ## Output:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/65ba2917-2172-4ba3-ad2f-47f03b494faf" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/74db21d0-98ac-456b-8517-16e7a8190b95" />
+
 
 
 
